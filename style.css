@@ -1,0 +1,26 @@
+body{
+    background-color:hsl(192, 88%, 67%);
+}
+
+h1{
+    text-align: center;
+    color: gold;
+    font-size: 48px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body p, ul{
+    text-align: center;
+}
+
+.flare{
+    background-color: gold;
+    font-family: "brush script mt", serif;
+    font-weight: bold;
+    font-size: large;
+}
